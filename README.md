@@ -10,3 +10,6 @@ used documentation to utilize unique constraints when building schema.
 6/6 
 Began data analysis. Used syntax below for last question.
 https://stackoverflow.com/questions/6257580/count-all-duplicates-of-each-value
+
+6/8
+Finished data analysis with help of TA Anki.
